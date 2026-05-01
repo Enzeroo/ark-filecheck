@@ -1,5 +1,7 @@
 # ark-filecheck
 
+**Updated as of 01/05/26**
+
 # How to use
 Either install python and run the .py file (some packages may need installing), or run the .exe (defender WILL flag it) and enjoy!
 Any other file paths / registry things I am missing lmk! 
